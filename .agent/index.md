@@ -5,7 +5,7 @@ the harness writes this file once and afterwards only refreshes the file list at
 
 ## About
 
-A clickable frontend-only mockup of the custom bakery back office. It covers pre-orders, the order kitchen board, inventory, CRM, loyalty, and pickup and delivery. It runs on in-memory sample data, with no backend.
+Blank project ready for a fresh start. The previous bakery frontend, sample data, assets, dependencies, and build configuration have been removed. There is currently no frontend or backend, and no run or build commands.
 
 ## The .agent folder
 
